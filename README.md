@@ -266,22 +266,7 @@ An Excel version (`pothole_report.xlsx`) is also maintained for easy review.
 | UI Rendering | OpenCV drawing API |
 | Language | Python 3.9+ |
  
----
- 
-## 👥 Team
- 
-| Name | Role |
-|---|---|
-| **Apoorv Goyal** | Team Lead, Core Detection System, HUD Design |
-| **Vansh Tiwari** | Team Member |
-| **Kartikey Mishra** | Team Member |
-| **Devansh Singh** | Team Member |
-| **Aryan Arora** | Team Member |
- 
-**Supervisor:** Dr. Sumit Mittal
-**Institution:** VIT Bhopal University
-**Program:** EPICS (Engineering Projects in Community Service)
- 
+
 ---
  
 ## 🔮 Future Scope
@@ -292,14 +277,4 @@ An Excel version (`pothole_report.xlsx`) is also maintained for easy review.
 - [ ] Pothole severity heatmap generation
 - [ ] Integration with municipal reporting APIs
  
----
- 
-## 📜 License
- 
-This project was developed for academic and community service purposes under the EPICS program at VIT Bhopal University.
- 
----
- 
-<p align="center">
-  Made with ❤️ by Team P.A.T.R.O.L &nbsp;|&nbsp; VIT Bhopal University
-</p>
+
