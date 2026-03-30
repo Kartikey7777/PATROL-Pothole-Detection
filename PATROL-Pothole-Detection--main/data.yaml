@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['-1', '0', 'Pothole', 'Pothole - v1 raw', 'Potholes', 'bache', 'curb', 'dash', 'distressed', 'grate', 'manhole', 'marking', 'object', 'porthole', 'pothole', 'potholes', 'utility']
+
+roboflow:
+  workspace: apoorv-goyal-zveyb
+  project: pothole_mega_dataset-gmqac
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/apoorv-goyal-zveyb/pothole_mega_dataset-gmqac/dataset/2

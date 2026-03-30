@@ -1,0 +1,12 @@
+best.pt
+yolo11n.pt
+yolov8n.pt
+yolov8s.pt
+runs/
+train/
+test/
+valid/
+data/
+pothole_captures/
+__pycache__/
+*.pyc
